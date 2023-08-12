@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "dorito sus",
+    "description": "chips para tripulantes",
+    "code": "code1",
+    "price": 19.99,
+    "status": true,
+    "stock": 100,
+    "category": "comida",
+    "thumbnails": []
+  },
+  {
+    "id": "2",
+    "title": "leche de almendra sus",
+    "description": "lacteos para tripulantes",
+    "code": "code2",
+    "price": 19.99,
+    "status": true,
+    "stock": 97,
+    "category": "comida",
+    "thumbnails": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "user": "Juan",
+    "products": []
+  },
+  {
+    "id": "2",
+    "user": "Juancho",
+    "products": [
+      {
+        "id": "2",
+        "units": 3
+      }
+    ]
+  }
+]
